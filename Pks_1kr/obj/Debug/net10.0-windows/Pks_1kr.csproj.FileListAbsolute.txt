@@ -1,0 +1,14 @@
+C:\Users\Danil\RiderProjects\Pks_1kr\Pks_1kr\obj\Debug\net10.0-windows\Pks_1kr.csproj.AssemblyReference.cache
+C:\Users\Danil\RiderProjects\Pks_1kr\Pks_1kr\obj\Debug\net10.0-windows\Views\AuthorsWindow.baml
+C:\Users\Danil\RiderProjects\Pks_1kr\Pks_1kr\obj\Debug\net10.0-windows\Views\BookEditWindow.baml
+C:\Users\Danil\RiderProjects\Pks_1kr\Pks_1kr\obj\Debug\net10.0-windows\Views\GenreEditWindow.baml
+C:\Users\Danil\RiderProjects\Pks_1kr\Pks_1kr\obj\Debug\net10.0-windows\Views\GenresWindow.baml
+C:\Users\Danil\RiderProjects\Pks_1kr\Pks_1kr\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Danil\RiderProjects\Pks_1kr\Pks_1kr\obj\Debug\net10.0-windows\Views\AuthorsWindow.g.cs
+C:\Users\Danil\RiderProjects\Pks_1kr\Pks_1kr\obj\Debug\net10.0-windows\Views\BookEditWindow.g.cs
+C:\Users\Danil\RiderProjects\Pks_1kr\Pks_1kr\obj\Debug\net10.0-windows\Views\GenreEditWindow.g.cs
+C:\Users\Danil\RiderProjects\Pks_1kr\Pks_1kr\obj\Debug\net10.0-windows\Views\GenresWindow.g.cs
+C:\Users\Danil\RiderProjects\Pks_1kr\Pks_1kr\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Danil\RiderProjects\Pks_1kr\Pks_1kr\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Danil\RiderProjects\Pks_1kr\Pks_1kr\obj\Debug\net10.0-windows\Pks_1kr_MarkupCompile.cache
+C:\Users\Danil\RiderProjects\Pks_1kr\Pks_1kr\obj\Debug\net10.0-windows\Pks_1kr_MarkupCompile.lref
